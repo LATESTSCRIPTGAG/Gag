@@ -9,7 +9,7 @@
 
 2. Copy and paste this code:
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LATESTSCRIPTGAG/NOLAGHUB/refs/heads/main/NOLAG"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GAGNOLAGSCRIPT/NO-LAG/refs/heads/main/NOLAG-ID"))()
 
 3. Join a public server.
 
