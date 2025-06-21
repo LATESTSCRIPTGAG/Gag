@@ -8,8 +8,7 @@
 1. Open your executor.
 
 2. Copy and paste this code:
-
-‼️loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLAGid-HUB/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()‼️
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLAGid-HUB/No-Lag-HUB/refs/heads/main/No-LagV1"))()
 
 3. Join a public server.
 
